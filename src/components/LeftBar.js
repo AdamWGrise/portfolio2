@@ -1,8 +1,8 @@
 import React from 'react'
 import Subsection from './Subsection';
 
-function LeftBar() {
-    return(
+function LeftBar () {
+    return (
         <div className='left-bar'>
             <h3 className='heading'>The Good Stuff: Portfolio of Projects and Skills</h3>
             <div className='better-hr'></div>
