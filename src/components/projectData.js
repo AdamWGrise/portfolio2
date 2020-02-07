@@ -3,7 +3,7 @@
 const projectData = [
     {
         id: 1,
-        image: "imgGithub",
+        image: "../assets/images/portfolio-thumb-github.png",
         demoLink: "https://github.com/AdamWGrise",
         demoName: "GitHub",
         // codeLink: "github url",
@@ -30,7 +30,7 @@ const projectData = [
     },
     {
         id: 4,
-        image: "imgTrain",
+        image: "../assets/images/portfolio-thumb-train.png",
         demoLink: "https://adamwgrise.github.io/Train-Scheduler",
         demoName: "Train Scheduler",
         codeLink: "https://github.com/AdamWGrise/Train-Scheduler",
